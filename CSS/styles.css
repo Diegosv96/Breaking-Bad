@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: 'BreakingBad';
-    src: url(/FONTS/Breaking\ Bad.ttf) format('truetype');
+    src: url(../FONTS/BreakingBad.ttf) format('truetype');
 }
 
 body{
@@ -10,7 +10,7 @@ body{
 }
 
 .fondo{
-    background-image: url(/IMG/fondo.jpg);
+    background-image: url(../IMG/fondo.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
